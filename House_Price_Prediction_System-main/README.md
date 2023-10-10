@@ -28,6 +28,8 @@ Review: Your PR will be reviewed by our maintainers. Feedback and further change
 
 Merge: Once your PR is approved, it will be merged into the main branch.
 
+Note: The Dataset required  for the the project is located in the static folder. Please name the file to be commited as "Model_Training.ipynb" and commit the file in static folder only.
+
 Code of Conduct
 Please note that we have a Code of Conduct in place to ensure a welcoming and inclusive environment for all contributors. By participating, you are expected to abide by this code.
 
